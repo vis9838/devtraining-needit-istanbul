@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Needit" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element display="true" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="number"/>
+        </index>
+    </element>
+</database>
